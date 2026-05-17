@@ -1,3 +1,8 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
+
+title: My site
+description: Hi, everybody, Nice meeting you all and Welcome, thsi site is an embodiment of me. Honestly this is a mirrior to my whole journey with web development that reflects my core values and ethics. The entire concept of architecture, tech stack, software developmet life cycle that I have understood boils down to the projects I have. Browsing through them means you get to experience my journey firsthand in a few hundred lines of code. Take your time
+
+  
