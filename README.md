@@ -1,112 +1,123 @@
-# yt.py
+---
+layout: default
+---
 
-## A Python script to play media from YouTube without needing API keys
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-<!-- ![banner][banner_img] -->
+[Link to another page](./another-page.html).
 
-### Sections
+There should be whitespace between paragraphs.
 
-Click to navigate.
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
--   [Dependencies](#Dependencies)
--   [Installation](#Installation)
--   [Usage](#Usage)
-    -   [Examples](#Examples)
--   [Credits](#Credits)
--   [Extras](#Extras)
+# Header 1
 
-### Dependencies
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
--   [Python 3][python] (tested on PyPy 3.7.9 and CPython 3.9.1)
--   [mpv][mpv]
--   [yt-dlp][ytdl]
--   [ffmpeg][ffmpeg]
+## Header 2
 
-### Installation
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
 
--   Download the file from the Releases page: [yt.py][release]
--   Place it in your `$PATH` and make it executable.
--   Enjoy!
+### Header 3
 
-### Usage
-
-```sh
-usage: yt.py [-h] [-u] [-v] [-d] [-n NUM] [-o DIR] [SEARCH_STRING ...]
-
-Play YouTube media without API
-
-positional arguments:
-  SEARCH_STRING         media to play
-
-options:
-  -h, --help            show this help message and exit
-  -u, --url             display URL instead of playing
-  -v, --video           play video instead of music
-  -d, --download        download media instead of playing
-  -n NUM, --num NUM     nth result to play or download
-  -o DIR, --output DIR  folder to save downloaded media
-
-List of mpv hotkeys: https://defkey.com/mpv-media-player-shortcuts
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
 ```
 
-#### Examples
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
 
--   Stream audio:
+#### Header 4
 
-    `yt.py gurenge band cover`
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
 
--   Download audio:
+##### Header 5
 
-    `yt.py -d astronomia`
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
 
--   Watch a video:
+###### Header 6
 
-    `yt.py -v rickroll`
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 
--   Download a video:
+### There's a horizontal rule below this.
 
-    `yt.py -dv penguin flock`
+* * *
 
--   Play the audio of the second search result:
+### Here is an unordered list:
 
-    `yt.py -n 2 plastic love daft punk`
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
 
--   Download a video to a directory other than `$HOME/Videos` (default location):
+### And an ordered list:
 
-    `yt.py -do "$HOME/Music/" darude sandstorm`
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
 
-PS: [Here][mpv_hotkeys]'s a list of mpv keyboard shortcuts for your convenience.
+### And a nested list:
 
-### Credits
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
 
--   [pystardust][pystardust]'s [ytfzf][ytfzf]
--   [This article][article] I found during my quest to implement a simplified version of ytfzf in Python3
+### Small image
 
-### Extras
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-#### About the `.pyx` file
+### Large image
 
-**I'm currently not updating it anymore. Please consider using the `.py` file instead**
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
-Cython is supposed to be faster but I don't really know Cython so I couldn't optimize it as well. If you can do so, feel free to make a fork, and maybe even a pull request so the script can be improved. It'll be a learning experience for me as well.
 
-As for the performance... It may be slightly faster but the program is still network-bound. Which means, faster internet = faster query = media is played sooner.
+### Definition lists can be used with HTML syntax.
 
-Compile an executable file using [this shell script][cymake] if you want.
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
 
-<!-- Images -->
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
 
-[banner_img]: https://user-images.githubusercontent.com/50134239/109390169-2c1b9000-793a-11eb-94d4-d6b3edc631b7.png
-
-<!-- Links -->
-
-[release]: https://github.com/cybardev/ytpy/releases/download/v2.0/yt.py
-[python]: https://www.python.org/downloads/
-[mpv]: https://github.com/mpv-player/mpv
-[ytdl]: https://github.com/yt-dlp/yt-dlp
-[ffmpeg]: https://github.com/FFmpeg/FFmpeg
-[mpv_hotkeys]: https://defkey.com/mpv-media-player-shortcuts
-[pystardust]: https://github.com/pystardust
-[ytfzf]: https://github.com/pystardust/ytfzf
-[article]: https://www.codeproject.com/articles/873060/python-search-youtube-for-video
-[cymake]: https://github.com/cybarspace/cymake
+```
+The final element.
+```
