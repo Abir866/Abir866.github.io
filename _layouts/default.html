@@ -40,12 +40,13 @@
             {% endif %}
         </header>
         <section>{{ content }}</section>
-        <footer>
+        {% include projects.html %}
+        <footeir>
             {% if site.github.is_project_page %}
             <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
             {% endif %}
             <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-        </footer>
+        </footeir>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
 </body>
