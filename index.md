@@ -1,123 +1,42 @@
----
-layout: default
----
+#  Hi, I'm Toufiq! 
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## 👤 About Me
 
-[Link to another page](./another-page.html).
+- 📋 **Resume**: [https://abir866.github.io/My-Typst-Resume/Resume_Toufiq_(resume_starter).pdf]
+- 📈 **Interests**: Web development, Textile, System Security, Reading
+- 🎓 **Education**: B.Sc in Computing Science @ SMU _(Graduated Jan 2025)_
+- 💻 **Experience**:
+    - _**Front-line agent**_ @ Concentrix  
+      **[Customer-service, problem solving, long-term client relationship, ]**
+    - _**Customer Service Representative**_ @ ReelData AI  
+      **[Food portion preparations, anticipate needs, personalze solutions, build rapport]**
+- 🛠️ **Best PR**: [NixOS/nixpkgs#412863](https://github.com/NixOS/nixpkgs/pull/412863) (added [facebook/pyrefly](https://github.com/facebook/pyrefly) to [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) and became its maintainer)
+- ✉️ **Contact**: [LinkedIn][linkedin] | [Email][email] | [Forums][forums]
+- 🎉 **Fun Fact**: I love Linux! Especially NixOS. Check out my config here: [nix-dotfiles][nix_config]
+- 🇵🇸 <b>Tragic fact</b>: <details><summary><i>(click to read)</i></summary><br />Hundreds of thousands of innocent unarmed people, including thousands of children are being killed by the IOF in Palestine. Millions of people are displaced from their homes that have been destroyed by the IOF so they have no home to return to. Many more in the West bank are losing their homes to settler colonialism. Palestinians in both wings, as well as those in the occupied territories live under an oppressive, inhumane, apartheid rule. Genocide and ethnic cleansing is being done to the Palestinians right now as you're reading this. And this has been going on ceaselessly for over 75 years.</details>
 
-There should be whitespace between paragraphs.
+## 🎯 Skills
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+- **Focus**:  
+  [![Python][img_python]][python] [![Go][img_go]][go] [![Nix][img_nix]][nix] [![Shell][img_shell]][zsh]
+- **Others**:  
+  Agile, C#, C/C++, CI/CD, Cloud, Containers, Data Analytics, Game Development, Git, Java, JavaScript, Kafka, Linux, MongoDB, SQL, Test Automation, Web Development
 
-# Header 1
+<!-- Links -->
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[resume]: https://resume.cybar.dev/devops/ "Resume - Sheikh Saad Abdullah"
+[email]: mailto:sheikh@cybar.dev "sheikh@cybar.dev"
+[linkedin]: https://linkedin.com/in/cybardev "Sheikh's LinkedIn"
+[forums]: https://github.com/cybardev/cybardev/discussions "GitHub Discussions"
+[nix_config]: https://github.com/cybardev/nix-dotfiles "cybardev/nix-dotfiles"
+[python]: https://www.python.org "Python"
+[go]: https://go.dev/learn "Go"
+[nix]: https://nixos.org "Nix"
+[zsh]: https://www.zsh.org "Zsh"
 
-## Header 2
+<!-- Badges -->
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+[img_python]: https://img.shields.io/badge/-Python-306998?style=for-the-badge
+[img_go]: https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge
+[img_nix]: https://img.shields.io/badge/-Nix-5277C3?style=for-the-badge
+[img_shell]: https://img.shields.io/badge/-Shell-seagreen?style=for-the-badge

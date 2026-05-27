@@ -5,4 +5,25 @@ plugins:
 title: My site
 description: Hi, everybody, Nice meeting you all and Welcome, thsi site is an embodiment of me. Honestly this is a mirrior to my whole journey with web development that reflects my core values and ethics. The entire concept of architecture, tech stack, software developmet life cycle that I have understood boils down to the projects I have. Browsing through them means you get to experience my journey firsthand in a few hundred lines of code. Take your time
 
-  
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default" 
+show_links: true
+links:
+          linkedin: https://www.linkedin.com/in/cybardev
+          github: https://github.com/cybardev
+          blog: https://cybar.dev/blog
+      
+      # Projects
+show_projects: true
+projects:
+          resumake: Programmatic resume generator
+          ytgo: Find and watch YouTube videos from terminal without needing API keys
+          dbsys-webapp: Full-stack Flask + MySQL Web App for Database Systems course
+          Noctrun: 2D side-scrolling endless runner featuring the ghosts of Bengal
+          nw-blog: Full-stack accessible blog with CMS for client at Northwood
+          cutefetch: Cute little fetch script with kitties and bunnies
+          zen.zsh: Simple and Elegant Prompt for Zsh
+          search: Custom Search Engine using the Usearch API 
