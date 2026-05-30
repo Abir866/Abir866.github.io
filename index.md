@@ -8,9 +8,9 @@
 - 💻 **Experience**:
     - _**Front-line agent**_ @ Concentrix  
       **[Customer-service, problem solving, long-term client relationship, ]**
-    - _**Customer Service Representative**_ @ ReelData AI  
+    - _**Customer Service Representative**_ @ Atlantic Superstore  
       **[Food portion preparations, anticipate needs, personalze solutions, build rapport]**
-- 🛠️ **Best PR**: [NixOS/nixpkgs#412863](https://github.com/NixOS/nixpkgs/pull/412863) (added [facebook/pyrefly](https://github.com/facebook/pyrefly) to [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) and became its maintainer)
+- 🛠️ **Best Project**: [Pyhton-Resume maker](https://github.com/Abir866/Scraper) (added [OpenRouter/Deep Seek v-](https://openrouter.ai/deepseek/deepseek-v4-flash) to control web content driven text generation [Selenium](https://www.selenium.dev/documentation/webdriver/elements/finders/) and became it's maintainer)
 - ✉️ **Contact**: [LinkedIn][linkedin] | [Email][email] | [Forums][forums]
 - 🎉 **Fun Fact**: I love Linux! Especially NixOS. Check out my config here: [nix-dotfiles][nix_config]
 - 🇵🇸 <b>Tragic fact</b>: <details><summary><i>(click to read)</i></summary><br />Hundreds of thousands of innocent unarmed people, including thousands of children are being killed by the IOF in Palestine. Millions of people are displaced from their homes that have been destroyed by the IOF so they have no home to return to. Many more in the West bank are losing their homes to settler colonialism. Palestinians in both wings, as well as those in the occupied territories live under an oppressive, inhumane, apartheid rule. Genocide and ethnic cleansing is being done to the Palestinians right now as you're reading this. And this has been going on ceaselessly for over 75 years.</details>
@@ -25,7 +25,7 @@
 <!-- Links -->
 
 [resume]: https://resume.cybar.dev/devops/ "Resume - Sheikh Saad Abdullah"
-[email]: mailto:sheikh@cybar.dev "sheikh@cybar.dev"
+[email]: mailto:toufiqabir5@gmail.com "toufiqabir5@gmail.com"
 [linkedin]: https://linkedin.com/in/cybardev "Sheikh's LinkedIn"
 [forums]: https://github.com/cybardev/cybardev/discussions "GitHub Discussions"
 [nix_config]: https://github.com/cybardev/nix-dotfiles "cybardev/nix-dotfiles"
