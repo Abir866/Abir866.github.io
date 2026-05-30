@@ -40,10 +40,12 @@
             {% endif %}
         </header>
         
-        <section>{{ content }}</section>
-        <br>
+        <section>{{ content }}
+        <br/>
         {% include projects.html %}
-        
+        </section>
+        <br>
+                
         <footeir>
             {% if site.github.is_project_page %}
             <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
