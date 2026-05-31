@@ -26,11 +26,12 @@
 
 [resume]: https://abir866.github.io/My-Typst-Resume/Resume_Toufiq_(resume_starter).pdf
 [email]: mailto:toufiqabir5@gmail.com "toufiqabir5@gmail.com"
-[linkedin]: https://www.linkedin.com/in/toufiq-abir-farhan/
+[linkedin]: https://www.linkedin.com/in/toufiq-abir-farhan/ "Toufiq's linkedin"
 [forums]: https://github.com/cybardev/cybardev/discussions "GitHub Discussions"
-[nix_config]: https://github.com/Abir866/nixos
+[nix_config]: https://github.com/Abir866/nixos "nix-config"
 [python]: https://www.python.org "Python"
 [nix]: https://nixos.org "Nix"
+[zsh]: https://www.zsh.org "Zsh"
 
 <!-- Badges -->
 
