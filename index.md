@@ -26,7 +26,7 @@
 
 [resume]: https://abir866.github.io/My-Typst-Resume/Resume_Toufiq_(resume_starter).pdf
 [email]: mailto:toufiqabir5@gmail.com "toufiqabir5@gmail.com"
-[linkedin]: 
+[linkedin]: https://www.linkedin.com/in/toufiq-abir-farhan/
 [forums]: https://github.com/cybardev/cybardev/discussions "GitHub Discussions"
 [nix_config]: https://github.com/Abir866/nixos
 [python]: https://www.python.org "Python"
