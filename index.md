@@ -24,11 +24,11 @@
 
 <!-- Links -->
 
-[resume]: [resume]: https://abir866.github.io/My-Typst-Resume/Resume_Toufiq_(resume_starter).pdf "Resume - Toufiq Abir Farhan Tufan"
+[resume]: https://abir866.github.io/My-Typst-Resume/Resume_Toufiq_(resume_starter).pdf "Resume - Toufiq Abir Farhan Tufan"
 [email]: mailto:sheikh@cybar.dev "sheikh@cybar.dev"
 [linkedin]: https://linkedin.com/in/cybardev "Sheikh's LinkedIn"
 [forums]: https://github.com/cybardev/cybardev/discussions "GitHub Discussions"
-[nix_config]: https://github.com/cybardev/nix-dotfiles "cybardev/nix-dotfiles"
+[nix_config]: https://github.com/Abir866/nixos "toufiq/nix-config"
 [python]: https://www.python.org "Python"
 [go]: https://go.dev/learn "Go"
 [nix]: https://nixos.org "Nix"
