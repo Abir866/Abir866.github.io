@@ -24,7 +24,7 @@
 
 <!-- Links -->
 
-[resume]: https://resume.cybar.dev/devops/ "Resume - Sheikh Saad Abdullah"
+[resume]: [resume]: https://abir866.github.io/My-Typst-Resume/Resume_Toufiq_(resume_starter).pdf "Resume - Toufiq Abir Farhan Tufan"
 [email]: mailto:sheikh@cybar.dev "sheikh@cybar.dev"
 [linkedin]: https://linkedin.com/in/cybardev "Sheikh's LinkedIn"
 [forums]: https://github.com/cybardev/cybardev/discussions "GitHub Discussions"
